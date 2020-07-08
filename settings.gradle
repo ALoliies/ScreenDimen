@@ -1,0 +1,3 @@
+include ':dimen'
+include ':app'
+rootProject.name = "ScreenDimen"
